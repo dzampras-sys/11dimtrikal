@@ -1,0 +1,20 @@
+{
+  "name": "11ο Δημοτικό Σχολείο Τρικάλων",
+  "short_name": "11ο Δημοτικό",
+  "description": "Ανακοινώσεις, πρόγραμμα μαθημάτων, εφημερίες και υποδοχή του σχολείου",
+  "lang": "el",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#161918",
+  "theme_color": "#161918",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
